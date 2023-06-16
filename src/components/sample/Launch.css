@@ -1,0 +1,18 @@
+.launch {
+  margin: 20px;
+}
+
+.launch-section {
+  display: flex;
+}
+
+.launch-input {
+  width: 100%;
+  margin-right: 10px;
+}
+
+.launch-input span {
+  width: 100%;
+}
+
+.launch-btn {}
